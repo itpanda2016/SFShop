@@ -1,0 +1,2 @@
+# SFShop
+.net Core
